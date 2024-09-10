@@ -4,7 +4,7 @@
 </a>
 </p>
 
-<h3 align="center"> 「Bing| Ask and it is given」</h3>
+<h3 align="center"> 「让我帮你必应一下 | Let Me Bing That For U」</h3>
 
 让我帮你必应一下 - 优化版
 
