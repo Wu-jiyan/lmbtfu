@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://lmbtfu.us.kg/" target="_blank">
+<a href="https://lmbtfu.wujiyan.cc" target="_blank">
 <img src="https://img.picui.cn/free/2024/09/10/66e047140c516.jpg" alt="让我帮你必应一下">
 </a>
 </p>
@@ -15,7 +15,7 @@
 ### 在线演示
 -----
 
-[https://lmbtfu.us.kg/](https://lmbtfu.wujiyan.cc/)
+[https://lmbtfu.wujiyan.cc](https://lmbtfu.wujiyan.cc/)
 
 
 ### 相关项目
